@@ -12,6 +12,7 @@ OpenBSD (ARM64) VMs for UTM (tested on M1/MacOS).
 Historically, ARM64 OpenBSD releases lacked a traditional ISO(CD/DVD) boot support for the ARM platforms in general. It made installation with UTM difficult for some users. Today, the CD installer is available on ARM64 but I made a new image with the fresh version 7.6 of OpenBSD.
 
 User: root
+
 Password: root
 
 For your safety, please change this password immediatly at first boot. (type "passwd" after login). Provided for your convenience without any garantee.
