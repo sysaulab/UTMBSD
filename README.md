@@ -10,5 +10,6 @@ For your safety, please change this password immediatly at first boot. (type "pa
 
 ## Files
 
+- [OpenBSD 7.7](https://github.com/sysaulab/UTMBSD/releases/download/openbsd/OpenBSD-7.7-ARM64.utm.tar.xz)
 - [OpenBSD 7.6](https://github.com/sysaulab/UTMBSD/releases/download/openbsd/openbsd-7.6-arm64.utm.tar.gz)
 - [OpenBSD 7.5](https://github.com/sysaulab/UTMBSD/releases/download/openbsd/OpenBSD_7.5_ARM64.utm.tar.xz)
